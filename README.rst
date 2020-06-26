@@ -8,7 +8,7 @@ file on receipt.
 This is super "MVP". I simply persist the data to disk at the moment. There is 
 only one arduino ethernet running so this isn't a problem.
 
-The 
+This is part of the `House Weather Project <https://github.com/users/oisinmulvihill/projects/3>`_.
 
 Development
 -----------
